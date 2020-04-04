@@ -1,4 +1,5 @@
 0. resource
+   https://www.omicsdi.org/dataset/geo/GSE100701
    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851235/
    
 1. What is average life span vs maximum life span?
@@ -6,3 +7,8 @@
    Average cacn be changed by chnageing environmental conditions but maximum is increased bu decrease in aging rate.
    
    e.g for centuries the average life has beenincrease by cleanliness/ healthcare etc. whereas the maximal had been same.
+   
+2. what is rma
+      http://www.molmine.com/magma/loading/rma.htm
+3. dataset 
+      https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100701
