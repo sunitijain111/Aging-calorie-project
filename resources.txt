@@ -11,4 +11,4 @@
 2. what is rma
       http://www.molmine.com/magma/loading/rma.htm
 3. dataset 
-      https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100701
+      not found .
